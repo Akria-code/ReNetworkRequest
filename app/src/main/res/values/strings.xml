@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReNetworkRequest</string>
+    <string name="button_parse">parse</string>
+    <string name="text_data">show</string>
+</resources>
